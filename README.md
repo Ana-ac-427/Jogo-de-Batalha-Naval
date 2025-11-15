@@ -40,3 +40,6 @@ Funções
 
 Organização de código
 
+🧑‍💻 Autor
+
+Ana Clara do Nascimento de Oliveira Disciplina: Introdução à Programação de Computadores Desafio Final — Jogo de Batalha Naval
